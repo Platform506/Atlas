@@ -1,0 +1,127 @@
+---
+description: Konrad Group Full Stack Java Developer role — interview and screening context
+alwaysApply: true
+---
+
+# Java Fullstack Developer Role
+
+**Company:** Konrad Group  
+**Role:** Full Stack Java Developer  
+**Level:** 1–3 years (junior / early mid)  
+**Stack focus:** Java, Spring Boot / Spring Cloud, React or Angular, relational or NoSQL databases
+
+Use this file as interview and screening context. Do not mix scorecards from other roles.
+
+---
+
+## About The Role
+
+As a Full Stack Java Developer you'll be tasked with working on web application development in Java and Spring Boot. Working within the software development team, your duties will require you to assist in the development and delivery of consumer and enterprise applications. This role is ideal for ambitious developers who feel confident in their technical ability and want to be a part of the highly-skilled development team at Konrad.
+
+---
+
+## What You'll Do
+
+- Write maintainable, testable, and performant software in collaboration with our world class team.
+- Participate in code review and perform extensive testing to ensure we deliver high quality software.
+- Research new technology and tools and share those findings with the team.
+- Communicate clearly and effectively with all members of our team.
+
+---
+
+## Qualifications (must-haves)
+
+- 1–3 years experience building and delivering modern production-grade web applications in a team environment
+- Very strong Java programming skills utilizing Spring Boot or Spring Cloud
+- Front end JS framework experience using React or Angular or similar
+- Deep understanding of each of the parts that make up a modern web application (APIs, templating, routing, data storage, design patterns, optimization, caching, security)
+- Fundamental knowledge of core web principals (HTTP, the DOM, SSL, web servers)
+- Fluency with relational databases or alternatively NoSQL databases
+- Great interpersonal skills — we work very closely together as a team and require a lot of communication
+- A proactive personality, and a desire to deliver your best work
+- A love for improving software development workflows and processes
+
+---
+
+## Nice to have
+
+- Experience working with content management systems (Wordpress, AEM, Sitefinity etc…)
+- Experience working within cloud environments (AWS, Google Cloud, Azure)
+- Experience working with GraphQL, ElasticSearch, Serverless, or Next.js
+
+---
+
+## Perks and Benefits
+
+- Mentorship Program
+- Comprehensive Health & Wellness Benefits Package
+- Parental Leave Program
+- Flexible Working Hours
+- Work from Home Flexibility
+- Service Recognition Programs
+- Socials, Outings & Retreats
+- Culture of Learning & Development
+
+---
+
+## Equal opportunity
+
+Konrad Group is committed to maintaining a diverse work environment and is proud to be an equal opportunity employer. All qualified applicants, regardless of race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status will receive consideration for employment. If you have any accessibility requirements or concerns regarding the hiring process or employment with us, please notify us so we can provide suitable accommodation.
+
+While we sincerely appreciate all applications, only those candidates selected for an interview will be contacted.
+
+---
+
+## Screening bar (for interviews)
+
+This is a **Java fullstack** role, not a generic junior fullstack screen.
+
+**Must show both sides of the stack in one feature:**
+
+- Backend: Java + Spring Boot (or Spring Cloud) — APIs, services, data
+- Frontend: React or Angular (or similar) — UI, routing, talking to APIs
+
+**Pass signals**
+
+- Can narrate a production feature from UI → API → database and back
+- Explains Spring Boot pieces they actually used (controllers, services, repos, config)
+- Knows HTTP, REST, and how their frontend consumes the API
+- Has used a relational or NoSQL database in a real team project
+- Talks about tests, code review, and shipping with teammates — not only tutorials
+
+**Risk signals**
+
+- Java only, no real frontend — or React/Angular only, no Spring
+- Course/bootcamp demos they cannot walk through as production work
+- Vague on APIs, caching, security, or how data is stored
+- Cannot explain a code review or a bug they fixed with the team
+
+**Nice-to-haves are bonus, not required:** CMS, cloud (AWS/GCP/Azure), GraphQL, ElasticSearch, Serverless, Next.js.
+
+---
+
+## Score 1–5
+
+1. Java / Spring Boot (or Spring Cloud)
+2. Frontend (React, Angular, or similar)
+3. Modern web app parts (APIs, routing, data, caching, security)
+4. Core web (HTTP, DOM, SSL, web servers)
+5. Databases (relational or NoSQL)
+6. Testing, code review, and quality
+7. Communication, teamwork, and proactivity
+8. English (if required by the interview)
+
+---
+
+## Interview flow
+
+1. Intro
+2. One production feature they owned (Java/Spring + frontend)
+3. Spring Boot: how the API was structured
+4. Frontend: React or Angular and how it talked to the backend
+5. Database choice and a query or schema they used
+6. A bug or performance/security issue they handled
+7. Tests and code review
+8. How they communicate and improve team workflow
+9. Nice-to-haves only if time (cloud, CMS, GraphQL, etc.)
+10. Verdict
