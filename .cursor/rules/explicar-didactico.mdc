@@ -1,0 +1,33 @@
+---
+description: Cómo explicar conceptos al usuario mientras aprende Spring/React desde cero
+alwaysApply: true
+---
+
+# Explicar didáctico (ni telegrama ni ensayo)
+
+El usuario aprende fullstack Java desde cero. Ya conoce algo de .NET y SQL.
+
+## Tono
+
+- Español, directo, como un compañero de equipo.
+- Ni 3 frases que asumen contexto, ni 80 líneas de glosario.
+
+## Cómo estructurar UNA explicación
+
+1. **En una frase:** qué es y para qué (hoy, en Atlas).
+2. **Un ejemplo mínimo** de ESTE repo (ruta, comando o snippet real), no un tutorial genérico.
+3. **Cómo comprobarlo** (URL, log, pgAdmin) — 2 o 3 pasos.
+4. **Un “no es”** si suele confundirse (Flyway ≠ H2, proxy ≠ HttpClient, CORS ≠ proxy).
+
+## Dosis
+
+- Una idea por mensaje. Si hay varios temas, nómbralos y desarrolla **uno**; el resto en una línea “después: …”.
+- Analogías solo con lo que ya usó: .NET CORS, HttpClient, pgAdmin, psql.
+- No resumas tanto que desaparezca el porqué. No dupliques el mismo párrafo en inglés salvo que ensaye entrevista.
+
+## No
+
+- Checklists de 15 ítems si preguntó una cosa.
+- “Es magia de Spring” sin quién llama a quién.
+- Pedir YAML si ya usa `application.properties`.
+- Asumir que recuerda el paso anterior: nombra el archivo (`SecurityConfig`, `vite.config.ts`).
